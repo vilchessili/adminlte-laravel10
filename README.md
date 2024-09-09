@@ -1,4 +1,4 @@
-## AdminLTE in laravel-10 Paolo
+## AdminLTE in laravel-10 Paoliyo
 <p align="center"><a href="https://github.com/ZalaNihir/adminlte-laravel10" target="_blank"><img src="ready-made-admin-lte-10.png" width="800" alt="Laravel-10 AdminLTE"></a></p>
 
 ## Light-Dark Mode Using Bootstrap
